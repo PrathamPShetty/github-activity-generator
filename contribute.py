@@ -74,10 +74,10 @@ def message(date):
 def contributions_per_day(args):
     max_c = args.max_commits
     if max_c > 20:
-        max_c = 20
+        max_c = 2
     if max_c < 1:
         max_c = 1
-    return randint(1, max_c)
+    return randint(1, 2)
 
 
 def arguments(argsval):
