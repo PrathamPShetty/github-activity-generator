@@ -2,7 +2,7 @@
 
 Generate a GitHub Contributions Graph for the past year.
 
-![Issues](https://img.shields.io/github/issues/aaishikasb/GitHub-Activity-Generator) ![Stars](https://img.shields.io/github/stars/aaishikasb/GitHub-Activity-Generator) ![License](https://img.shields.io/github/license/PrathamPShetty/GitHub-Activity-Generator) 
+
 
 ## Working
 
